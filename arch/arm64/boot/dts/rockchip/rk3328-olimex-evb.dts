@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: (GPL-2.0+ OR MIT)
 /*
  * Copyright (c) 2017 PINE64
- */
+ * Copyleft 52UTC (2022AD) Nedko Arnaudov
+*/
 
 /dts-v1/;
 #include "rk3328.dtsi"
